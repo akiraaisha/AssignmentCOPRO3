@@ -8,3 +8,7 @@ c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_
 c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.csproj.GenerateResource.Cache
 c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.exe
 c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.pdb
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\bin\Debug\COPRO3_Assignment1.exe.manifest
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\bin\Debug\COPRO3_Assignment1.application
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.exe.manifest
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.application
