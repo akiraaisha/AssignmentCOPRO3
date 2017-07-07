@@ -1,0 +1,10 @@
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\bin\Debug\COPRO3_Assignment1.exe.config
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\bin\Debug\COPRO3_Assignment1.exe
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\bin\Debug\COPRO3_Assignment1.pdb
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.csprojResolveAssemblyReference.cache
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.CMS.resources
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.Login_Form.resources
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.Properties.Resources.resources
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.csproj.GenerateResource.Cache
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.exe
+c:\users\julian\documents\visual studio 2015\Projects\COPRO3_Assignment1\COPRO3_Assignment1\obj\Debug\COPRO3_Assignment1.pdb
