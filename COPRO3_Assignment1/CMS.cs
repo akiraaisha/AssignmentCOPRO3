@@ -106,12 +106,14 @@ namespace COPRO3_Assignment1
 
         private void Submit_Button_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Full Name: " + FirstNameInput.Text + MiddleInitialInput.Text + SurnameInput.Text
+			string spacing = " ";
+            MessageBox.Show("Full Name: " + FirstNameInput.Text  + spacing + MiddleInitialInput.Text + spacing + SurnameInput.Text
                 + Environment.NewLine + "Age: " + AgeInput.Text
                 + Environment.NewLine + "Gender: " + SelectedGender
                 + Environment.NewLine + "Civil Status: " + CivilStatus_ListBox.SelectedItem.ToString());
-                //Exporting an Image in MessageBox is not possible.
                 //+ Environment.NewLine + Profile_Picture);
+				//Exporting an Image in MessageBox is not possible.
+				//
 
 
 
